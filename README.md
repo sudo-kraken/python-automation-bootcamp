@@ -55,3 +55,41 @@ Each module includes:
    Open your terminal and run:
    ```bash
    git clone https://github.com/sudo-kraken/python-automation-bootcamp.git
+   ```
+2. **Navigate to a Module:**
+  Each module is in its own folder (e.g., module0, module1, etc.). Open the README in the desired module for specific instructions.
+
+3. **Run Example Scripts:**
+  Navigate to the lesson folders and run the Python scripts. For example:
+    ```bash
+    cd module0/lesson1
+    python virtualenv_setup.py
+    ```
+
+4. **Practice:**
+  Follow the practice exercises provided in each module to reinforce your learning. Modify the scripts, experiment with commands, and explore different configurations at your own pace.
+
+## Prerequisites
+
+- Python 3.8 or later:
+  - Ensure you have a recent version of Python installed.
+
+- Git:
+  - For cloning the repository.
+
+- Required Python Packages:
+  - Install necessary packages (e.g., requests, netmiko) using:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+    (Make sure a requirements.txt file is present in the repository.)
+
+## Contributing
+
+Contributions to improve this bootcamp project are welcome! To contribute:
+
+  1. Fork the repository.
+  2. Create a new branch for your feature or improvement.
+  3. Commit your changes with descriptive messages.
+  4. Open a pull request for review.
