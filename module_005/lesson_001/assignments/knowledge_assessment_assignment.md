@@ -1,17 +1,12 @@
-# Assignment: Knowledge Assessment Reflection
+# Practice Exercise: Enhance the Knowledge Assessment Quiz
 
 ## Objective
-Reflect on your performance in the knowledge assessment quiz and identify areas for further improvement.
+Practice working with interactive input by extending the knowledge assessment quiz.
 
-## Task
-1. Run the `knowledge_assessment.py` script located in the `examples` folder.
-2. Answer the quiz questions.
-3. Write a short report (300–500 words) that includes:
-   - Your overall score and the questions you found challenging.
-   - An analysis of why you found certain topics challenging.
-   - Specific areas from Modules 1–4 that you need to review further.
-   - Any suggestions for improving the quiz or the bootcamp content.
-4. Save your report as a PDF and submit it as per your organisation’s submission guidelines.
+## Tasks
+1. Open the `knowledge_assessment.py` script.
+2. Add at least one new question (for example, a question about Python data types or file operations).
+3. Ensure that your new question is integrated into the scoring system.
+4. Run the updated quiz to test the new question.
 
-## Submission
-- Place your PDF in a folder named `submissions` within Module 5 or follow your organisation’s guidelines.
+Work through this exercise to deepen your familiarity with interactive scripting in Python.
