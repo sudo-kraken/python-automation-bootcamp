@@ -19,6 +19,7 @@ Welcome to the Bootcamp Python Automation repository! This project is a comprehe
   - [Module 8: Review, Feedback & Continuous Improvement](module8/README.md)
   - [Module 9: Deployment, Monitoring, and Troubleshooting](module9/README.md)
   - [Module 10: Bootcamp Graduation & Career Development](module10/README.md)
+  - [Module 11: Bonus Module: Automating Everyday Tasks with Python](module11/README.md)
 - [Usage Instructions](#usage-instructions)
 - [Prerequisites](#prerequisites)
 - [Contributing](#contributing)
@@ -41,6 +42,7 @@ This repository is organized into 11 modules (Modules 0 through 10), each design
 - **Module 8:** Focuses on self-review, feedback, and continuous improvement strategies.
 - **Module 9:** Covers deployment, monitoring, and troubleshooting techniques.
 - **Module 10:** Helps you reflect on your journey and plan your career development post-bootcamp.
+- **Module 11:** Bonus Module: Automating Everyday Tasks with Python.
 
 Each module includes:
 - A detailed README with explanations and learning objectives.
